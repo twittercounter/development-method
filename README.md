@@ -14,6 +14,8 @@ In this document you'll find all the basic rules and guidelines we have set up t
 * [Points](#points)
 * [Velocity](#velocity)
 * [Development](#development)
+	* [Choosing Stories](#choosingstories)
+	* [Prioritisation](#prioritisation)
 
 * * *
 
@@ -71,7 +73,7 @@ Stand-ups can also be referred to as cofee-time.
 
 ### Stories <a name="stories"></a>###
 
-##### Adding stories #####
+##### Adding stories <a name="addingstories"></a>#####
 All members of the development team, including members of the marketing & sales team, are allowed (and encouraged) to add their own stories.
 They will then be the __requester__ of the story and responsible for adding __a clear description__ and a __screenshot, if applicable__.
 All new stories will be added to the icebox.
@@ -79,17 +81,17 @@ All new stories will be added to the icebox.
 Members of the dev team can assign ownership of the ticket themselves and, if they are able, should __add sufficient tasks__ to the story as well.
 Other members of the team can leave the ownership blank. Upon scheduling the story, the scrum-master will assign an owner to the story.
 
-##### Scheduling stories #####
+##### Scheduling stories <a name="schedulingstories"></a>#####
 The scrum-master will put all stories for the coming sprint in the backlog on monday.
 Only the scrum-master is allowed to schedule stories.
 
-##### Accepting/Denying stories #####
+##### Accepting/Denying stories <a name="aodstories"></a>#####
 Only requesters of the story are allowed to accept or deny a story.
 This is to prevent miscommunication and to ensure that the requester has seen the desired results.
 
 On some occasions, the scrum-master will be allowed to accept or deny stories, in communication with the requester and clear understanding of the story.
 
-##### Taking Ownership #####
+##### Taking Ownership <a name="takingownership"></a>#####
 When story is assigned to a developer, the developer is in charge of [assigning points to the story](#points).
 
 ### Points <a name="points"></a>###
@@ -115,12 +117,12 @@ The scrum-master uses the average velocity to plan in the stories for the next w
 
 ### Development <a name="development"></a>###
 
-##### Choosing stories #####
+##### Choosing stories <a name="choosingstories"></a>#####
 In order to meet planning and work towards a common goal, developers are discouraged to add and then start their own stories.
 They should focus on the stories in the backlog, rather than adding or working on other stories.
 
 However, there are exceptions. If the need is dire, ask the scrum-master about the proper course of action.
 
-##### Prioritisation #####
+##### Prioritisation <a name="prioritisation"></a>#####
 The priority of the story is decided by the scrum-master and will be labeled with a priority tag.
 All other stories have equal priority. Of course all stories in the backlog have priority over those in the icebox.
