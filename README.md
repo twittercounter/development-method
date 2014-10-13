@@ -40,6 +40,14 @@ Overview of general data:
 * __Stand-up meetings:__ Daily, except on Monday, 10 AM, 15 min
 * __Cool-down meetings:__ Every friday, ~4 PM
 
+Current team members are:
+* Omer Ginor
+* Joey van Ommen
+* Javi Negre
+* Julio Foulquie
+* Katerina Petropoulou
+* Martijn Scheibeler
+
 ### Sprints <a name="sprints"></a>###
 
 Each sprint lasts for __5 days, from monday to friday__, and will consist of 90 accumulative hours.
@@ -106,9 +114,6 @@ On some occasions, the scrum-master will be allowed to accept or deny stories, i
 The scrum-master is in charge of [assigning points to each story](#points). If however the scrum-master doesn't feel confident in assigning points to a story, he will consult a member of the team. 
 
 ### Points <a name="points"></a>###
-
-Every developer is responsible for assigning points to the tickets they own, based on the amount of effort they estimate they need to complete the story.
-Preferably this is done as soon as the story is added, so that the scrum-master can use this information during the planning of the next sprint.
 
 We use a linear point system that looks this:
 * __0 points:__ Quick fixes or implementations, everything from 1 minute to 15 minutes
