@@ -88,7 +88,7 @@ Stand-ups can also be referred to as cofee-time.
 
 ### Stories <a name="stories"></a>###
 
-##### General <a name="storiesgeneral"></a>##### 
+##### General <a name="storiesgeneral"></a>#####
 Product Backlog contains all possible items for the sprint, even if they will not be completed during this period.
 
 ##### Adding stories <a name="addingstories"></a>#####
