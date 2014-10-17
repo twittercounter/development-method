@@ -1,4 +1,4 @@
-# SCRUM Documentation #
+# Development Method #
 
 In this document you'll find all the basic rules and guidelines we have set up to ensure an efficient workflow within the Twitter Counter dev-team.
 
