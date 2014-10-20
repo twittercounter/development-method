@@ -4,8 +4,17 @@ In this document you'll find all the basic rules and guidelines we have set up t
 
 * * *
 
+## Commit Structure ##
 
+Each commit is supposed to look like this:
 
 ```
-Bugfix - Fix tracking in the search field: https://www.pivotaltracker.com/story/show/80547858
+Pricing Page - Add new testimonials and remove old ones.
+
+Story: https://www.pivotaltracker.com/story/show/80547858
 ```
+
+The ideal commit contains the follow:
+- The category
+- The task performed
+- The url to the story on Pivotal (if applicable)
