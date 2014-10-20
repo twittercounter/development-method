@@ -14,7 +14,7 @@ Pricing Page - Add new testimonials and remove old ones.
 Story: https://www.pivotaltracker.com/story/show/80547858
 ```
 
-The ideal commit contains the follow:
-- The category
-- The task performed
-- The url to the story on Pivotal (if applicable)
+The ideal commit contains the following:
+- The category: `Pricing Page`
+- The task performed: `Add new testimonials and remove old ones.`
+- The url to the story on Pivotal (if applicable): `https://www.pivotaltracker.com/story/show/80547858`
