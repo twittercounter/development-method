@@ -18,3 +18,9 @@ The ideal commit contains the following:
 - The category: `Pricing Page`
 - The task performed: `Add new testimonials and remove old ones.`
 - The url to the story on Pivotal (if applicable): `https://www.pivotaltracker.com/story/show/80547858`
+
+## Commit Message Template ##
+
+Copy the file ```twc-commit-template``` under the .git folder of your twittercounter project's repo.
+
+Then execute: ```git config commit.template .git/twc-commit-template```
