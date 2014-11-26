@@ -12,4 +12,4 @@ In this document we document all the issues, bugs and solutins we've encountered
 
 ## HTML ##
 
-- `<a>`: According to this issue ( ariya/phantomjs#10196 ) links aren't being generated on render.
+- `<a>`: According to this [issue](https://github.com/ariya/phantomjs/issues/10196) links aren't being generated on render.
