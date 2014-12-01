@@ -27,15 +27,10 @@ The goal of this document is to structure our development method and create a cl
 If you find any information missing or unclear, please throw something at [Joey](mailto:joey@twittercounter.com).
 
 Overview of general data:
-
-* __Team members:__ 5
+* __Team members:__ 6
 * __Sprint Length:__ 5 days
-* __Sprint-Hour Capacity (Team):__ 90
-* __Sprint-Hour Capacity (Member):__ 30
-* __Last Sprint Velocity:__ --
-* __Average Velocity:__ --
 * __Sprint meetings:__ Every monday
-* __Stand-up meetings:__ Daily, except on Monday, 10 AM, 15 min
+* __Stand-up meetings:__ Daily, except on Monday, 1:30 PM, 15 min
 * __Cool-down meetings:__ Every friday, ~4 PM
 
 Current team members are:
@@ -43,6 +38,7 @@ Current team members are:
 * Joey van Ommen
 * Javi Negre
 * Julio Foulquie
+* Israel Iglesias
 * Katerina Petropoulou
 * Martijn Scheibeler
 
@@ -77,7 +73,7 @@ In conclusion, the full sprint schedule looks like this:
 
 Stand-ups are short meetings to determine the status of the sprint, lift blocks and to coordinate efforts.
 
-These meetings happen __daily (except on monday) at 10 AM, Amsterdam time__, and will take place near the coffee-machine in the kitchen or at the coffee-bar, near the entrance of the office.
+These meetings happen __daily (except on monday) at 1:30 PM, Amsterdam time__, and will take place near the coffee-machine in the kitchen or at the coffee-bar, near the entrance of the office.
 They will take __no longer than 15 minutes__, and everything regarding solving specific issues or helping with a bug will take place separately and won't be part of the stand-up.
 
 Before every stand-up, all members of the Twitter Counter team need to update Pivotal Tracker.
@@ -109,16 +105,17 @@ This is to prevent miscommunication and to ensure that the requester has seen th
 On some occasions, the scrum-master will be allowed to accept or deny stories, in communication with the requester and clear understanding of the story.
 
 ##### Pricing <a name="takingownership"></a>#####
-The scrum-master is in charge of [assigning points to each story](#points). If however the scrum-master doesn't feel confident in assigning points to a story, he will consult a member of the team. 
+The scrum-master is in charge of [assigning points to each story](#points). If however the scrum-master doesn't feel confident in assigning points to a story, he will consult a member of the team.
 
 ### Points <a name="points"></a>###
 
 We use a linear point system that looks this:
 * __0 points:__ Quick fixes or implementations, everything from 1 minute to 15 minutes
-* __1 points:__ Quick fixes or implementations, everything from 15 minutes to 45 minutes
-* __2 points:__ Small features, everything from 45 minutes to 2 hours
-* __3 points:__ Medium, everything from 2 hours to 4 hours
-* __4 points:__ Large, everything from 4 hours to 6 hours
+* __1 points:__ Quick fixes or implementations, everything from 15 minutes to 1 hour
+* __2 points:__ Small features, something that will take a couple of hours
+* __3 points:__ Medium features, somethat that could take half a day
+* __5 points:__ Large features, features where it's unsure how much time will be needed, but a medium-to-long time regardless
+* __8 points:__ Extra Large, risky features where it's unsure how much time will be needed, but a long time regardless
 
 It's important to note that the points do not have a direct link to time, but rather effort.
 
