@@ -1,16 +1,22 @@
 ### Stories <a name="stories"></a>###
 
-##### General <a name="storiesgeneral"></a>#####
-Product Backlog contains all possible items for the sprint, even if they will not be completed during this period.
+This part of the docs concerns the stories on Pivotal Tracker and how we work with them. This document will contain certain rules and guidelines to ensure that all members of the team can use the stories effectively.
 
 ##### Adding stories <a name="addingstories"></a>#####
 All members of the development team, including members of the marketing & sales team, are allowed (and encouraged) to add their own stories.
 They will then be the __requester__ (and thereafter __accepters__) of the story and responsible for adding __a clear description__ and a __screenshot, if applicable__.
 All new stories will be added to the icebox.
 
+There are a couple of guidelines when it comes to creating stories:
+* __Write a clear description and title__: Each story should be written as though the owner of the story is completely unaware of this feature, chore or bug. The owner of the story is allowed to reject the story if it is unclear what needs to be done.
+* __If it's a bug...__: Use Bugherd and supply a screenshot.
+* __Use proper punctuation__: Capital letters, proper use of comma's, no all-caps, etc.
+* __Use understandable words__: Don't use words that are obscure and very uncommon. This prevents basic miscommunication.
+* __Always assign the story__: Specifically, assign them to Joey. Unassigned stories won't be found and won't be scheduled.
+* __Add tasks, if applicable__: Are there specific tasks concerning this story? Add them.
+
 Members of the dev team can assign ownership of the ticket themselves and, if they are able, should __add sufficient tasks__ to the story as well.
-This is to better communicate to themselves or another member of the team what the story actually entails regarding terms for acceptance, specific requirements or a list of abilities.
-Other members of the team can leave the ownership blank. Upon scheduling the story, the scrum-master will assign an owner to the story.
+Upon scheduling the story, the scrum-master will assign an owner to the story.
 
 ##### Scheduling stories <a name="schedulingstories"></a>#####
 The scrum-master, having consulted with the product owner, will put all stories for the coming sprint in the backlog on friday.
