@@ -13,9 +13,9 @@ Overview of general data:
 * * *
 
 ### Index ###
-* [Schedule](schedule.md)
-	* [Sprints](schedule.md#sprints)
-	* [Standups](schedule.md#standups)
+* [Flow](flow.md)
+	* [Sprints](flow.md#sprints)
+	* [Standups](flow.md#standups)
 * [Stories](stories.md)
 	* [Adding Stories](stories.md#addingstories)
 	* [Pricing Stories](stories.md#pricingstories)
