@@ -58,6 +58,8 @@ These labels make it easy to find stories in the icebox that are important or ha
 
 For stories that are scheduled, we have an additional way to indicate priority; In the current log we use a Deadline story (a bright blue bar in the log) as a type of separator. All stories scheduled and placed above this blue bar need to be taken care of first. Afterwards, the priority labels mentioned above take over and the developers are allowed to decide which one they tackle.
 
+![alt text](assets/images/blue-bar-example.jpg "Blue bar on Pivotal Tracker")
+
 Prioritisation is added by the scrum-master or product owner. It is not encouraged to add priority labels yourself, unless previously discussed with the product owner.
 
 * * *
