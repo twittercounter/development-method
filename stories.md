@@ -41,7 +41,7 @@ If at any point any member of the development team notices that a story is not p
 
 #### Scheduling stories (putting them into the backlog) <a name="schedulingstories"></a>####
 The scrum-master, having consulted with the product owner, will put all stories for the coming sprint in the backlog on friday.
-Only the scrum-master or product owner is allowed to schedule stories.
+Only the scrum-master or product owner is allowed to schedule stories. Never start on a story that wasn't discussed and that isn't part of the current sprint.
 
 Stories will not be scheduled for the current sprint, during a sprint. In other words, the current sprint won't be broken unless absolutely necesarry and approved by the product owner.
 
@@ -64,18 +64,20 @@ Prioritisation is added by the scrum-master or product owner. It is not encourag
 
 * * *
 
-##### Accepting/Denying stories <a name="aodstories"></a>#####
-Only requesters of the story are allowed to accept or deny a story.
+##### Accepting stories <a name="astories"></a>#####
+Only requesters of the story are allowed to accept a story.
 This is to prevent miscommunication and to ensure that the requester has seen the desired results.
 
-On some occasions, the scrum-master will be allowed to accept or deny stories, in communication with the requester and clear understanding of the story.
+On some occasions, the scrum-master will be allowed to accept stories, in communication with the requester and clear understanding of the story.
 
 * * *
 
-### Development <a name="development"></a>###
+##### Rejecting stories <a name="dstories"></a>#####
+Only requesters of the story are allowed to reject a story. Before a story is rejected, the requester or reviewer is encouraged to consult with the developer responsible first, to make sure that the requirements were clear and were thus not met.
 
-##### Choosing stories <a name="choosingstories"></a>#####
-In order to meet planning and work towards a common goal, developers are discouraged to add and then start their own stories.
-They should focus on the stories in the backlog, rather than adding or working on other stories.
+Reasons to reject a story:
+* __Requirements were not met__: The story did not solve the given issue or did not implement the feature like how it was described.
 
-However, there are exceptions. If the need is dire, ask the scrum-master about the proper course of action.
+Reasons to __NOT__ reject a story:
+* __The scope of the story has changed__: If the scope has changed and requirements were either added or changed, then this is to be submitted in a new story.
+* __The requester meant something different__: It is the responsiblity of the requester to properly describe each story. If the developer did not understand it and proper explanations were not given, the developer will be given the time to correct this.
