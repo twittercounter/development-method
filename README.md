@@ -15,7 +15,11 @@ Overview of general data:
 ### Index ###
 * [Flow](flow.md)
 	* [Sprints](flow.md#sprints)
-	* [Standups](flow.md#standups)
+	* [Stand-ups](flow.md#standups)
+	* [Effort Estimation](flow.md#effortestimation)
+	* [Backlog Grooming](flow.md#backloggrooming)
+	* [Show-and-Tell](flow.md#showandtell)
+	* [Summary](flow.md#summary)
 * [Stories](stories.md)
 	* [Adding Stories](stories.md#addingstories)
 	* [Pricing Stories](stories.md#pricingstories)
