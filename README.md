@@ -27,8 +27,9 @@ Overview of general data:
 	* [Prioritisation](stories.md#prioritisation)
 * [Git Flow](git-flow.md)
 	* [Commits](git-flow.md#commits)
-* Misc
-	* [PhantomJS Issue Tracking](misc/phantom-js-findings.md)
+
+### Misc. ###
+* [PhantomJS Issue Tracking](misc/phantom-js-findings.md)
 
 * * *
 
