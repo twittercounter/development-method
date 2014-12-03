@@ -10,7 +10,7 @@ Overview of general data:
 * __Sprint meetings:__ Every monday, around 11:00 AM
 * __Stand-up meetings:__ Daily, except on Monday, 1:30 PM, 15 min
 
-***
+* * *
 
 ### Index ###
 * [Schedule](schedule.md)
@@ -18,16 +18,15 @@ Overview of general data:
 	* [Standups](schedule.md#standups)
 * [Stories](stories.md)
 	* [General](stories.md#storiesgeneral)
-    * [Adding Stories](stories.md#addingstories)
-    * [Scheduling Stories](stories.md#schedulingstories)
-    * [Accepting/Denying Stories](stories.md#aodstories)
-    * [Taking Ownership](stories.md#takingownership)
+	* [Adding Stories](stories.md#addingstories)
+	* [Scheduling Stories](stories.md#schedulingstories)
+	* [Accepting/Denying Stories](stories.md#aodstories)
+	* [Taking Ownership](stories.md#takingownership)
 	* [Points](stories.md#points)
 	* [Choosing Stories](stories.md#choosingstories)
 	* [Prioritisation](stories.md#prioritisation)
 * [Git Flow](git-flow.md)
 	* [Commits](git-flow.md#commits)
-
 * Misc
 	* [PhantomJS Issue Tracking](misc/phantom-js-findings.md)
 
