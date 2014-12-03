@@ -22,7 +22,7 @@ Upon scheduling the story, the scrum-master will assign an owner to the story.
 
 * * *
 
-#### Pricing stories (assigning points to them)<a name="takingownership"></a>####
+#### Pricing stories (assigning points to them)<a name="pricingstories"></a>####
 The scrum-master is in charge of [assigning points to each story](#points). If however the scrum-master doesn't feel confident in assigning points to a story, he will consult a member of the team. If however a member of the development team is adding a story and he is confident he can price the story accurately, this is highly encouraged.
 
 We use a Fibonacci point system that looks this:
