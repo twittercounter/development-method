@@ -22,12 +22,10 @@ Upon scheduling the story, the scrum-master will assign an owner to the story.
 
 * * *
 
-#### Pricing <a name="takingownership"></a>####
-The scrum-master is in charge of [assigning points to each story](#points). If however the scrum-master doesn't feel confident in assigning points to a story, he will consult a member of the team.
+#### Pricing stories (assigning points to them)<a name="takingownership"></a>####
+The scrum-master is in charge of [assigning points to each story](#points). If however the scrum-master doesn't feel confident in assigning points to a story, he will consult a member of the team. If however a member of the development team is adding a story and he is confident he can price the story accurately, this is highly encouraged.
 
-### Points <a name="points"></a>###
-
-We use a linear point system that looks this:
+We use a Fibonacci point system that looks this:
 * __0 points:__ Quick fixes or implementations, everything from 1 minute to 15 minutes
 * __1 points:__ Quick fixes or implementations, everything from 15 minutes to 1 hour
 * __2 points:__ Small features, something that will take a couple of hours
@@ -36,6 +34,8 @@ We use a linear point system that looks this:
 * __8 points:__ Extra Large, risky features where it's unsure how much time will be needed, but a long time regardless
 
 It's important to note that the points do not have a direct link to time, but rather effort.
+
+If at any point any member of the development team notices that a story is not priced correctly, it is adviced to change the pricing to more accurately reflect the amount of effort needed.
 
 * * *
 
