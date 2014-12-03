@@ -1,25 +1,4 @@
-# Development Method #
-
-In this document you'll find all the basic rules and guidelines we have set up to ensure an efficient workflow within the Twitter Counter dev-team.
-
-### Index ###
-* [General](#general)
-* [Sprints](schedule.md#sprints)
-* [Standups](schedule.md#standups)
-* [Stories](stories.md)
-	* [General](stories.md#storiesgeneral)
-    * [Adding Stories](stories.md#addingstories)
-    * [Scheduling Stories](stories.md#schedulingstories)
-    * [Accepting/Denying Stories](stories.md#aodstories)
-    * [Taking Ownership](stories.md#takingownership)
-	* [Points](stories.md#points)
-* [Development](stories.md#development)
-	* [Choosing Stories](stories.md#choosingstories)
-	* [Prioritisation](stories.md#prioritisation)
-
-* * *
-
-### General <a name="general"></a>###
+# Development Docs #
 
 The goal of this document is to structure our development method and create a clear overview of all the guidelines and rules we have set up to ensure a productive and efficient workflow. When you are in doubt concerning estimating points for stories, accepting stories or the different meetings and their associated times, this document is right for you! 
 
@@ -30,6 +9,29 @@ Overview of general data:
 * __Sprint Length:__ 5 days (one work week)
 * __Sprint meetings:__ Every monday, around 11:00 AM
 * __Stand-up meetings:__ Daily, except on Monday, 1:30 PM, 15 min
+
+***
+
+### Index ###
+* [Schedule](schedule.md)
+	* [Sprints](schedule.md#sprints)
+	* [Standups](schedule.md#standups)
+* [Stories](stories.md)
+	* [General](stories.md#storiesgeneral)
+    * [Adding Stories](stories.md#addingstories)
+    * [Scheduling Stories](stories.md#schedulingstories)
+    * [Accepting/Denying Stories](stories.md#aodstories)
+    * [Taking Ownership](stories.md#takingownership)
+	* [Points](stories.md#points)
+	* [Choosing Stories](stories.md#choosingstories)
+	* [Prioritisation](stories.md#prioritisation)
+* [Git Flow](git-flow.md)
+	* [Commits](git-flow.md#commits)
+
+* Misc
+	* [PhantomJS Issue Tracking](misc/phantom-js-findings.md)
+
+* * *
 
 Current team members are:
 * [Omer Ginor](https://twitter.com/mightyom)
