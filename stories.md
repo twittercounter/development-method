@@ -22,9 +22,26 @@ Upon scheduling the story, the scrum-master will assign an owner to the story.
 
 * * *
 
-##### Scheduling stories <a name="schedulingstories"></a>#####
+##### Scheduling stories (putting them into the backlog) <a name="schedulingstories"></a>#####
 The scrum-master, having consulted with the product owner, will put all stories for the coming sprint in the backlog on friday.
-Only the scrum-master is allowed to schedule stories.
+Only the scrum-master or product owner is allowed to schedule stories.
+
+Stories will not be scheduled for the current sprint, during a sprint. In other words, the current sprint won't be broken unless absolutely necesarry and approved by the product owner.
+
+* * *
+
+##### Prioritisation <a name="prioritisation"></a>#####
+There are two ways that we have deciced to indicate priority in Pivotal Tracker; priority labels and above-the-line stories.
+
+We use labels to separate labels based on priority. We have come up with the following 3-point system:
+* `>` - Low priority
+* `>>` - Medium priority
+* `>>>` - High priority
+These labels make it easy to find stories in the icebox that are important or have a high impact, and this also makes it easier for the developers to distinguish between stories.
+
+For stories that are scheduled, we have an additional way to indicate priority; In the current log we use a Deadline story (a bright blue bar in the log) as a type of separator. All stories scheduled and placed above this blue bar need to be taken care of first. Afterwards, the priority labels mentioned above take over and the developers are allowed to decide which one they tackle.
+
+Prioritisation is added by the scrum-master or product owner. It is not encouraged to add priority labels yourself, unless previously discussed with the product owner.
 
 * * *
 
@@ -60,7 +77,3 @@ In order to meet planning and work towards a common goal, developers are discour
 They should focus on the stories in the backlog, rather than adding or working on other stories.
 
 However, there are exceptions. If the need is dire, ask the scrum-master about the proper course of action.
-
-##### Prioritisation <a name="prioritisation"></a>#####
-The priority of the story is decided by the product owner and will be labeled with a priority tag.
-All other stories have equal priority. Of course all stories in the backlog have priority over those in the icebox.
