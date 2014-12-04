@@ -6,4 +6,4 @@ This part of the docs concerns the qa process we have put together to ensure tha
 
 #### Process <a name="process"></a>####
 
-![alt text](assets/Interim-Dev-QA-process.svg "The QA flow")
+![alt text](assets/Interim-Dev-QA-process.jpg "The QA flow")
