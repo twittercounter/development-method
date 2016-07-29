@@ -22,7 +22,7 @@ They will take __no longer than 15 minutes__, and everything regarding solving s
 
 Before every stand-up, all members of the Twitter Counter team need to update Pivotal Tracker.
 
-Stand-ups can also be referred to as cofee-time.
+Stand-ups can also be referred to as coffee-time.
 
 * * *
 
@@ -34,7 +34,7 @@ Every friday the scrum-master will have a meeting with all the developers to dis
 
 #### Backlog Grooming <a name="backloggrooming"></a>####
 
-Aftert this meeting the backlog grooming will take place.
+After this meeting the backlog grooming will take place.
 During this meeting between the product owner and the scrum-master the epic(s) and the stories will be chosen for the coming sprint.
 
 * * *
